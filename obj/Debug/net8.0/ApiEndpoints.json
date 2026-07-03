@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "EventReceiver.Controllers.EventController",
+    "Method": "Receive",
+    "RelativePath": "api/events",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

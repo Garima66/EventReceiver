@@ -1,0 +1,6 @@
+@EventReceiver_HostAddress = http://localhost:5273
+
+GET {{EventReceiver_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
